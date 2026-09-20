@@ -18,10 +18,6 @@ An end-to-end data analytics project that analyzes customer purchasing behavior 
 - [Key Metrics](#key-metrics)
 - [Key Insights](#key-insights)
 - [Business Recommendations](#business-recommendations)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ---
 
