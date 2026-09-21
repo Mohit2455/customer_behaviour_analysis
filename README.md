@@ -78,6 +78,7 @@ The results are presented in a clean, easy-to-read Power BI dashboard that decis
 - Designed charts and KPI cards to present key findings
 - Structured the dashboard so that insights are easy to read at a glance
 
+![Dashboard](<Screenshot (156).png>)
 ---
 
 ## Dashboard Overview
